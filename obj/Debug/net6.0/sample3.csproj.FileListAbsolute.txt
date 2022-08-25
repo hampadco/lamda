@@ -1,0 +1,15 @@
+C:\Users\apple\Desktop\sample3\bin\Debug\net6.0\sample3.exe
+C:\Users\apple\Desktop\sample3\bin\Debug\net6.0\sample3.deps.json
+C:\Users\apple\Desktop\sample3\bin\Debug\net6.0\sample3.runtimeconfig.json
+C:\Users\apple\Desktop\sample3\bin\Debug\net6.0\sample3.dll
+C:\Users\apple\Desktop\sample3\bin\Debug\net6.0\sample3.pdb
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.csproj.AssemblyReference.cache
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.AssemblyInfoInputs.cache
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.AssemblyInfo.cs
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.csproj.CoreCompileInputs.cache
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.dll
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\refint\sample3.dll
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.pdb
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\sample3.genruntimeconfig.cache
+C:\Users\apple\Desktop\sample3\obj\Debug\net6.0\ref\sample3.dll
